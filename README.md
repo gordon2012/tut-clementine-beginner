@@ -6,7 +6,7 @@
 
 * ~~Folder Creation~~
 * ~~Simple Node Server~~
-* Refactoring Routes
+* ~~Refactoring Routes~~
 * Adding Additional Elements to Index.html
 * Connecting to MongoDB
 * Setting Up the Server-Side Controller
