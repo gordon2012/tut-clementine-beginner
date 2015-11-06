@@ -7,7 +7,7 @@
 * ~~Folder Creation~~
 * ~~Simple Node Server~~
 * ~~Refactoring Routes~~
-* Adding Additional Elements to Index.html
+* ~~Adding Additional Elements to Index.html~~
 * Connecting to MongoDB
 * Setting Up the Server-Side Controller
 * Testing the API via the Mongo Console
