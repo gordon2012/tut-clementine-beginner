@@ -1,13 +1,11 @@
 'use strict';
 
-var express = require('express');
+var express = require('express'),
+		routes = require('./app/routes/index.js');
 
 var app = express();
 
-app.get('/', function(req, res)
-{
-	res.sendFile(process.cwd() + '/index.html');
-});
+routes(app);
 
 app.listen(3000, function()
 {
