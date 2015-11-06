@@ -1,4 +1,4 @@
-# ![C](http://www.clementinejs.com/img/clementine_nav.png) Clementine.js Beginner Tutorial
+# ![C](http://gordon2012.github.io/images/clementine_150.png) Clementine.js Beginner Tutorial
 
 <http://www.clementinejs.com/tutorials/tutorial-beginner.html>
 
