@@ -9,7 +9,7 @@
 * ~~Refactoring Routes~~
 * ~~Adding Additional Elements to Index.html~~
 * ~~Connecting to MongoDB~~
-* Setting Up the Server-Side Controller
+* **Setting Up the Server-Side Controller**
 * Testing the API via the Mongo Console
 * Additional Methods and Routing
 * Adding Interactivity via the Client-side Controller
