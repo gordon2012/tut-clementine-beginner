@@ -8,7 +8,8 @@
 * ~~Simple Node Server~~
 * ~~Refactoring Routes~~
 * ~~Adding Additional Elements to Index.html~~
-* Connecting to MongoDB
+* **Connecting to MongoDB**
+	* __Additionally, it's important to initialize Express before connecting to the database. In this case, we__
 * Setting Up the Server-Side Controller
 * Testing the API via the Mongo Console
 * Additional Methods and Routing
