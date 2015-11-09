@@ -11,8 +11,8 @@
 * ~~Connecting to MongoDB~~
 * ~~Setting Up the Server-Side Controller~~
 * ~~Additional Methods and Routing~~
-* Adding Interactivity via the Client-side Controller
-* Create the Controller
-* Create Controller Functions
-* Listening for Events
+* ~~Adding Interactivity via the Client-side Controller~~
+	* ~~Create the Controller~~
+	* ~~Create Controller Functions~~
+	* ~~Listening for Events~~
 * Adding CSS Styling
