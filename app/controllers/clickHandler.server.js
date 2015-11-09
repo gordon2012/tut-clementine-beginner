@@ -21,9 +21,22 @@ function clickHandler(db)
 			}
 			else
 			{
-				clicks // <---
+				clicks.insert({'clicks': 0}, function(err)
+				{
+					if(err)
+					{
+						throw err;
+					}
+					clicks.findOne({}, clickProjection, function(err, doc)
+					{
+						if(err)
+						{
+							throw err;
+						}
+						res.json(doc);
+					});
+				});
 			}
-
 		});
 	};
 }
