@@ -10,7 +10,7 @@
 * ~~Adding Additional Elements to Index.html~~
 * ~~Connecting to MongoDB~~
 * ~~Setting Up the Server-Side Controller~~
-* Additional Methods and Routing
+* ~~Additional Methods and Routing~~
 * Adding Interactivity via the Client-side Controller
 * Create the Controller
 * Create Controller Functions
