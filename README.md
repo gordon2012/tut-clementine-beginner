@@ -15,4 +15,4 @@
 	* ~~Create the Controller~~
 	* ~~Create Controller Functions~~
 	* ~~Listening for Events~~
-* Adding CSS Styling
+* ~~Adding CSS Styling~~
